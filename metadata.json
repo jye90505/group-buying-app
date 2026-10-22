@@ -1,0 +1,6 @@
+{
+  "name": "揪團幫手 - 智慧菜單辨識與團購統計 (TuanGo)",
+  "description": "AI 智慧解析菜單、自訂客製化選項（便當口味/飲料冰糖配料/衣服尺寸顏色）、貼心備選方案機制、即時訂單統計與 LINE 格式匯出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
